@@ -1,6 +1,6 @@
 # `heitor@github:~$`
 
-**Heitor Miranda** · Software Developer
+</>**Heitor Miranda** · Software Developer
 
 ```bash
 > building things that solve problems.
@@ -33,7 +33,7 @@ Custom management platform for scheduling, fleet operations, inventory and techn
 
 ### `~/contact`
 
-	💻 [GitHub](https://github.com/mirandaheitor) · 💼 [LinkedIn](https://www.linkedin.com/)
+	💻 [GitHub](https://github.com/mirandaheitor) · 💼 [LinkedIn](https://www.linkedin.com/mirandaheitor)
 
 ```bash
 > always learning. always building.
