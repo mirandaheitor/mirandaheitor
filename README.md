@@ -15,11 +15,11 @@
 ### `~/ongoing_projects`
 
 **DevVault**  
-`current project`
+`current project`<br>
 Platform for game automation, developing tools and automation solutions for multiple online games.
 
 **Sul Agenda**  
-`business management system`
+`business management system`<br>
 Custom management platform for scheduling, fleet operations, inventory and technical service workflows.
 
 ### `~/interests`
