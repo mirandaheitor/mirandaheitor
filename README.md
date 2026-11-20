@@ -40,3 +40,4 @@ Custom management platform for scheduling, fleet operations, inventory and techn
 ```bash
 > always learning. always building.
 ```
+![Profile Views](https://komarev.com/ghpvc/?username=mirandaheitor&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
