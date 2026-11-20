@@ -1,16 +1,47 @@
-## Hi there 👋
+# `heitor@github:~$`
 
-<!--
-**mirandaheitor/mirandaheitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Heitor Miranda** · Software Developer
 
-Here are some ideas to get you started:
+```bash
+> building things that solve problems.
+> breaking things to understand how they work.
+> automating everything possible.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `~/stack`
+
+`PHP` · `JavaScript` · `Java` · `Python` · `SQL` · `HTML` · `CSS` · `Flutter`
+
+### `~/projects`
+
+**[DevVault](https://github.com/mirandaheitor)**  
+`current project`
+
+Platform for game automation, developing tools and automation solutions for multiple online games.
+
+**Sul Agenda**  
+`business management system`
+
+Custom management platform for scheduling, fleet operations, inventory and technical service workflows.
+
+**Ponto Azul**  
+`mobile application`
+
+Flutter-based time tracking application with GPS geolocation and offline synchronization.
+
+### `~/interests`
+
+- Software engineering
+- Reverse engineering
+- Game automation
+- API development
+- System architecture
+- Process automation
+
+### `~/contact`
+
+[GitHub](https://github.com/mirandaheitor) · [LinkedIn](https://www.linkedin.com/)
+
+```bash
+> always learning. always building.
+```
