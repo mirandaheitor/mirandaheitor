@@ -12,22 +12,15 @@
 
 `PHP` · `JavaScript` · `Java` · `Python` · `SQL` · `HTML` · `CSS` · `Flutter`
 
-### `~/projects`
+### `~/ongoing_projects`
 
-**[DevVault](https://github.com/mirandaheitor)**  
+**DevVault**  
 `current project`
-
 Platform for game automation, developing tools and automation solutions for multiple online games.
 
 **Sul Agenda**  
 `business management system`
-
 Custom management platform for scheduling, fleet operations, inventory and technical service workflows.
-
-**Ponto Azul**  
-`mobile application`
-
-Flutter-based time tracking application with GPS geolocation and offline synchronization.
 
 ### `~/interests`
 
@@ -40,7 +33,7 @@ Flutter-based time tracking application with GPS geolocation and offline synchro
 
 ### `~/contact`
 
-[GitHub](https://github.com/mirandaheitor) · [LinkedIn](https://www.linkedin.com/)
+[GitHub](https://github.com/mirandaheitor) · [LinkedIn]([https://www.linkedin.com/mirandaheitor])
 
 ```bash
 > always learning. always building.
